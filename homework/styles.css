@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+
+#tituloPrinc{
+    font-size: 20px;
+    color: black;
+    width: 60vw;
+    margin: auto;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+#desarrollo{
+    padding: 2em;
+}
+
+.tituloSec{
+    font-size: 30px;
+}
+
+.lenguajes{
+    font-size: 20px;
+    color: black;
+
+}
+
+.logo{
+    width: 250px;
+    height: 250px;
+    padding: 2em;
+}
